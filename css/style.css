@@ -11,41 +11,52 @@
     padding: 20px 0;
     font-size: 1em;
     background-color: #2196f3;
+    background-size: cover;
 }
 
 .brand {
     grid-column: 1 / 3;
+    background-image: url(../img/1.jfif);
 }
 .global-nav {
     grid-column: 3 / 10;
+    background-image: url(../img/2.jpg);
 }
 .tools {
     grid-column: 10 / 13;
+    background-image: url(../img/3.jpg);
 }
 .hero-feature {
     grid-column: 1 / 7;
+    background-image: url(../img/4.jpg);
     /* grid-row: 2 / 5; */
 }
 .hero-action {
     grid-column: 7 / 10;
+    background-image: url(../img/5.jpg);
     /* grid-row: 2 / 5; */
 }
 .ad {
     grid-column: 10 / 13;
+    background-image: url(../img/6.jpg);
     /* grid-row: 2 / 5; */
 }
 .article-feature {
     grid-column: 1 / 4;
+    background-image: url(../img/7.jpg);
     /* grid-row: 5 / 10; */
 }
 .article-listing {
     grid-column: 4 / 10;
+    background-image: url(../img/8.jpg);
     /* grid-row: 5 / 10; */
 }
 .sidebar-feature {
     grid-column: 10 / 13;
+    background-image: url(../img/9.jpg);
     /* grid-row: 5 / 10; */
 }
 .footer {
     grid-column: 1 / 13;
+    background-image: url(../img/10.jpg);
 }
