@@ -23,6 +23,7 @@
     .article-listing {
         /* grid-row: 10 / 7; */
         grid-column: 1 / 13;
+        grid-row: 5 / 11;
     }
     .sidebar-feature {
         grid-column: 1 /13;
